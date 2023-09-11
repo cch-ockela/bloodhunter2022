@@ -1,2 +1,1 @@
-#The Blood Hunter class in Dungeons & Dragons 5th Edition
-#This is for Aurora Builder
+This the Blood Hunter 2022 revision for Aurora Builder
