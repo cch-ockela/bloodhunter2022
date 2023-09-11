@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/dnd-beyond/blood-hunter-2022/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/cch-ockela/main/blood-hunter-2022supplements/dnd-beyond/blood-hunter-2022/source.xml" />
 		</update>
 	</info>
 
@@ -15,7 +15,7 @@
 		<setters>
 			<set name="abbreviation">BH22</set>
 			<set name="url">https://www.dndbeyond.com/classes/blood-hunter</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/dnd-beyond/blood-hunter-2022/BH22.png</set>
+			<set name="image">https://raw.githubusercontent.com/cch-ockela/main/blood-hunter-2022supplements/dnd-beyond/blood-hunter-2022/BH22.png</set>
 			<set name="author" abbreviation="DDB" url="https://www.dndbeyond.com/">Matthew Mercer, D&amp;D Beyond</set>
 			<set name="third-party">true</set>
 			<set name="release">20220218</set>
