@@ -3,15 +3,15 @@
 	<info>
 		<name>Extra Life</name>
 		<update version="0.0.3">
-			<file name="blood-hunter-2022.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/blood-hunter-2022.index" />
+			<file name="blood-hunter-2022.index" url="https://raw.githubusercontent.com/cch-ockela/bloodhunter2022/main/blood-hunter-2022.index" />
 		</update>
 	</info>
 	<files>
-		<file name="bloodhunter-ghostslayer.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/dnd-beyond/blood-hunter-2022/bloodhunter-ghostslayer.xml" />
-		<file name="bloodhunter-lycan.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/dnd-beyond/blood-hunter-2022/bloodhunter-lycan.xml" />
-		<file name="bloodhunter-mutant.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/dnd-beyond/blood-hunter-2022/bloodhunter-mutant.xml" />
-		<file name="bloodhunter-profanesoul.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/dnd-beyond/blood-hunter-2022/bloodhunter-profanesoul.xml" />
-		<file name="class-bloodhunter.xm" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/dnd-beyond/blood-hunter-2022/class-bloodhunter.xml" />
-		<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/dnd-beyond/blood-hunter-2022/source.xml" />
+		<file name="bloodhunter-ghostslayer.xml" url="https://raw.githubusercontent.com/cch-ockela/bloodhunter2022/main/blood-hunter-2022/bloodhunter-ghostslayer.xml" />
+		<file name="bloodhunter-lycan.xml" url="https://raw.githubusercontent.com/cch-ockela/bloodhunter2022/main/blood-hunter-2022/bloodhunter-lycan.xml" />
+		<file name="bloodhunter-mutant.xml" url="https://raw.githubusercontent.com/cch-ockela/bloodhunter2022/main/blood-hunter-2022/bloodhunter-mutant.xml" />
+		<file name="bloodhunter-profanesoul.xml" url="https://raw.githubusercontent.com/cch-ockela/bloodhunter2022/main/blood-hunter-2022/bloodhunter-profanesoul.xml" />
+		<file name="class-bloodhunter.xm" url="https://raw.githubusercontent.com/cch-ockela/bloodhunter2022/main/blood-hunter-2022/class-bloodhunter.xml" />
+		<file name="source.xml" url="https://raw.githubusercontent.com/cch-ockela/bloodhunter2022/main/blood-hunter-2022/source.xml" />
 	</files>
 </index>
